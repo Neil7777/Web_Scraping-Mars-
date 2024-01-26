@@ -60,14 +60,14 @@ Open the Jupyter Notebook in the starter code folder named part_2_mars_weather.i
 - What are the coldest and the warmest months on Mars (at the location of Curiosity)? To answer this question:
     - Find the average minimum daily temperature for all of the months.
     - Plot the results as a bar chart.
-    ![output](Output_data/temp_by_month_coldest_to_hottest.png)
+    ![output](Output/temp_by_month_coldest_to_hottest.png)
 - Which months have the lowest and the highest atmospheric pressure on Mars? To answer this question:
     - Find the average daily atmospheric pressure of all the months.
     - Plot the results as a bar chart.
-    ![output](Output_data/pressure_by_month.png)
+    ![output](Output/pressure_by_month.png)
 - About how many terrestrial (Earth) days exist in a Martian year? To answer this question:
     - Consider how many days elapse on Earth in the time that Mars circles the Sun once.
     - Visually estimate the result by plotting the daily minimum temperature.
-![output](Output_data/5.png)
+![output](Output/5.png)
 
 6. Export the DataFrame to a CSV file.
